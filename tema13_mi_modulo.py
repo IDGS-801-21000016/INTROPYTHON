@@ -10,6 +10,7 @@ def mi_funcion2():
 def main():
     mi_funcion()
     print("Hola, soy el módulo tema13_mi_modulo.py")
+    print("Hola, soy el módulo tema13_mi_modulo.py")
     mi_funcion2()
 
 
